@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Irodabonu
-- 👀 I’m interested in Ruby C C++ C# Kotlin JS programming languages , HTML CSS and astronomy
-- 🌱 I’m currently learning C and Ruby programming languages
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Ruby C C++ , Python, JS programming languages , HTML CSS and astronomy
+- 🌱 I’m currently learning C++ and Python programming languages
+- 💞️ I’m looking to collaborate on IT company
 - 📫 How to reach me 
 
 <!---
