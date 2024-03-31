@@ -8,7 +8,7 @@
   [![My Skills](https://skillicons.dev/icons?i=apple,kali,github,powershell)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,sqlite)](https://skillicons.dev)<br><br>
 * Personally for the first time after C language I  launched some projects that user can see and not by just terminal therefore I mention some of these tools environments, frameworks , websites and so ones that all guided me on my way <br><br>
-   [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,replit)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,replit,postman)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=androidstudio,django,flask,figma)](https://skillicons.dev)<br><br>
 * How to connect me : By all links given in my profile<br><br> 
   [![My Skills](https://skillicons.dev/icons?i=twitter,linkedin,discord)](https://skillicons.dev)
